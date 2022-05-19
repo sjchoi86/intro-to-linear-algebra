@@ -12,11 +12,11 @@
 - Week 8:(4/21): `Midterm`
 - Week 9:(4/28): Bases of column and null spaces & linear transformation
 - Week 10 (5/5): Linear map & Orthogonality
-- Week 11 (5/12): FTLA & Orthogonal basis
-- Week 12 (5/19): Least squares & Normal Equation & Gram-Schmidt
-- Week 13 (5/26): QR decomposition & Eigenvalue decomposition
-- Week 14 (6/2): Singular value decomposition & PCA
-- Week 15 (6/9): Summary
+- Week 11 (5/12): Fundamental theorem of linear algebra
+- Week 12 (5/19): Orthogonal basis
+- Week 13 (5/26): Least squares & Normal Equation & Gram-Schmidt
+- Week 14 (6/2): QR decomposition & Eigenvalue decomposition
+- Week 15 (6/9): Singular value decomposition & PCA
 - Week 16 (6/16): `Final exam`
 
 
